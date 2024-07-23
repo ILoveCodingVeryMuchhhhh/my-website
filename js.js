@@ -7,5 +7,6 @@ $(document).ready(
 
         btn1.click(function(){window.location.href="./about.html";});
         btn2.click(function(){window.location.href="./project.html";});
+        btn3.click(function(){window.alert("暂无相关计划");})
     }
 )
